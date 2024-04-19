@@ -176,7 +176,7 @@ img {
 
     .why-us {
         background-color: #222222;
-        padding: 5rem 0 2rem 0;
+        padding: 3rem 0 2rem 0;
         margin: 0;
     }
 
@@ -187,5 +187,20 @@ img {
 
     .why-us .col-left {
         padding-bottom: 5rem;
+    }
+
+    p {
+        width: 20rem;
+        margin: auto;
+    }
+
+    .why-us h2,
+    .why-us h3 {
+        width: 17rem;
+        margin: auto;
+    }
+
+    .why-us h3 {
+        margin-left: 2.7rem;
     }
 }
